@@ -18,6 +18,8 @@ This project is a simple responsive website built using HTML, CSS (including Fle
 **Files**
 
 index.html: The main HTML file that contains the structure of the webpage, including the header, navigation, hero section, main content area, and footer.
+
 css/style.css: The stylesheet that includes all the CSS rules for styling the website, including Flexbox layout and media queries for responsiveness.
+
 README.md: This file provides an overview of the project and instructions for setting it up.
 
